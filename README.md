@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning angularJS and completed core java, mysql, and spring mvc
 - 💞️ I’m looking to collaborate on web app, website and other software development regaring java
-- 📫 How to reach me email : shenoyvinay41@gmail.com, contact : 8291441648
+- 📫 How to reach me email : shenoyvinay41@gmail.com
 
 <!---
 vinayshenoy13/vinayshenoy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
